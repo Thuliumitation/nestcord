@@ -19,7 +19,7 @@ async def main():
 asyncio.run(main())
 ```
 
-More examples in there `examples` directory.
+More examples in the `examples` directory.
 
 ## Supports
 - Timeouts
